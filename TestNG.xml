@@ -1,0 +1,7 @@
+<suite name = "RegressionSuite">
+    <test name ="UserTests">
+        <classes>
+            <class name ="UserTests"/>
+        </classes>
+    </test>
+</suite>
